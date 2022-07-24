@@ -1,0 +1,27 @@
+.container {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  background-color: var(--gray-700);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container span {
+  color: var(--white);
+}
+
+.container button {
+  padding: 0.5rem;
+  border: 0;
+  background-color: var(--red-500);
+  color: var(--white);
+  border-radius: 8px;
+
+  transition: .1s;
+}
+
+.container button:hover {
+  opacity: 0.8;
+}
