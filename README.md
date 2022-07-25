@@ -14,6 +14,7 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizar o formulári
 
 ## Observações
 
-#### Não é possível cadastrar um usuário com email já cadastrado.
-#### Não é possível cadastrar em um usuário telefones ou endereços repetidos.
-#### É possível excluir endereços ou telefones antes de cadastrar o usuário.
+#### Não é possível cadastrar um cliente com email já cadastrado.
+#### Não é possível cadastrar em um cliente telefones ou endereços repetidos.
+#### É possível excluir endereços ou telefones antes de cadastrar o cliente.
+#### Os clientes cadastrados são adicionados em uma lista abaixo do formulário.
