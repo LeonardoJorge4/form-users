@@ -1,5 +1,5 @@
 
-# Formulário de cadastro para usuários
+# Formulário para cadastro de clientes
 
 ## Baixar as dependências
 

@@ -29,7 +29,6 @@ function App() {
 
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
-
   const [genre, setGenre] = useState("");
 
   const [addresses, setAddresses] = useState<Address[]>([]);
@@ -161,10 +160,10 @@ function App() {
 
         <Input
           required
-          value={email}
           type="email"
+          value={email}
           label="Email"
-          placeholder="Digite seu nome"
+          placeholder="Digite seu email"
           onChange={event => setEmail(event.target.value)}
         />
 
